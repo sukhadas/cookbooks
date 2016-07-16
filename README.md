@@ -1,11 +1,11 @@
 # Cookbooks
-The repository contains the cookbooks required to setup a Load balancer for running instances of Web Application on Tomcat
+> The repository contains the cookbooks required to setup a Load balancer for running instances of Web Application on Tomcat.
 
-Assumptions
+### Assumptions
   - Static IP is used
   - Java is installed
 
-You can also:
+### Technologies used:
   - Application development: Java
   - Build tool: Maven
   - Application Server: Tomcat7

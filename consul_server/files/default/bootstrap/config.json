@@ -1,0 +1,9 @@
+{
+    "bootstrap": true,
+    "node_name": "ConsulMaster",
+    "server": true,
+    "datacenter": "GSL_Consul_Cluster",
+    "data_dir": "/var/consul",
+    "log_level": "INFO",
+    "enable_syslog": true
+}

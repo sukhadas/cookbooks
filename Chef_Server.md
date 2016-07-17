@@ -79,7 +79,7 @@ knife ssl fetch
 knife ssl check
 ```
 
-Step 8: Check connection with server
+### Step 8: Check connection with server
 
 ```sh
 knife client list
